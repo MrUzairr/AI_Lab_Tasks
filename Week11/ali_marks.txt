@@ -1,0 +1,4 @@
+Math: Total - 100, Obtained - 90
+Physics: Total - 100, Obtained - 85
+Chemistry: Total - 100, Obtained - 92
+English: Total - 100, Obtained - 88
